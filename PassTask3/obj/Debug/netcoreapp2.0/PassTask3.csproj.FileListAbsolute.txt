@@ -1,0 +1,11 @@
+C:\msys64\home\User\PassTask3\bin\Debug\netcoreapp2.0\PassTask3.deps.json
+C:\msys64\home\User\PassTask3\bin\Debug\netcoreapp2.0\PassTask3.runtimeconfig.json
+C:\msys64\home\User\PassTask3\bin\Debug\netcoreapp2.0\PassTask3.runtimeconfig.dev.json
+C:\msys64\home\User\PassTask3\bin\Debug\netcoreapp2.0\PassTask3.dll
+C:\msys64\home\User\PassTask3\bin\Debug\netcoreapp2.0\PassTask3.pdb
+C:\msys64\home\User\PassTask3\obj\Debug\netcoreapp2.0\PassTask3.csprojAssemblyReference.cache
+C:\msys64\home\User\PassTask3\obj\Debug\netcoreapp2.0\PassTask3.csproj.CoreCompileInputs.cache
+C:\msys64\home\User\PassTask3\obj\Debug\netcoreapp2.0\PassTask3.AssemblyInfoInputs.cache
+C:\msys64\home\User\PassTask3\obj\Debug\netcoreapp2.0\PassTask3.AssemblyInfo.cs
+C:\msys64\home\User\PassTask3\obj\Debug\netcoreapp2.0\PassTask3.dll
+C:\msys64\home\User\PassTask3\obj\Debug\netcoreapp2.0\PassTask3.pdb
